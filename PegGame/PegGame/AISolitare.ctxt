@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=b\ r\ p
+comment0.target=AISolitare(BoardSolitare,\ RulesSolitare,\ Player)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AISolitare\r\n
+comment1.params=makeMove
+comment1.target=void\ randomMove(boolean)
+comment2.params=
+comment2.target=void\ intelliMove()
+comment3.params=pMoveList
+comment3.target=int[]\ intelliHint(java.util.ArrayList)
+numComments=4

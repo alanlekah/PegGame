@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=board\ player\ computer
+comment0.target=Grid(Board,\ Player,\ AI)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Grid\r\n\ @param\ \ board\ \ \ The\ board\ object\r\n\ @param\ \ player\ \ The\ player\ object\r\n\ @param\ \ computer\ \ The\ AI\ object\r\n
+comment1.params=
+comment1.target=void\ printBoard()
+comment1.text=\r\n\ Prints\ the\ Grid\ to\ console\r\n
+comment2.params=
+comment2.target=void\ clearBoard()
+comment2.text=\r\n\ Inserts\ Pegs\ into\ every\ peg\ space\r\n
+comment3.params=
+comment3.target=void\ emptySpace()
+comment3.text=\r\n\ Adds\ whitespace\ to\ the\ console\ window\r\n
+comment4.params=hintS
+comment4.target=void\ enableHint(java.lang.String)
+comment4.text=\r\n\ Turn\ on\ the\ hintstatus\ that\ will\ show\ the\ Hint\ on\ the\ Grid\r\n\ \r\n\ @param\ \ hintS\ \ a\ string\ with\ "y"\ if\ the\ user\ wants\ hints\ showing\ or\ "n"\ if\ not\r\n
+comment5.params=pos
+comment5.target=void\ printHint(int[])
+comment5.text=\r\n\ A\ method\ to\ set\ the\ hint\ in\ the\ Grid\r\n\ \r\n\ @param\ \ pos\ \ an\ int\ array\ with\ the\ hint\ positions\ from\ AI\r\n
+comment6.params=
+comment6.target=void\ resetHint()
+comment6.text=\r\n\ Resets\ the\ Hint\ Array\ and\ disables\ hintStatus\r\n
+comment7.params=
+comment7.target=boolean\ getHintStatus()
+comment7.text=\r\n\ Returns\ the\ status\ of\ the\ hintEnabled\ variable\r\n\ @return\ \ \ \ \ a\ boolean\ true\ if\ the\ hint\ is\ enabled,\ false\ if\ not\r\n
+numComments=8

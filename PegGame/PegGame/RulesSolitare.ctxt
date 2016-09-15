@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=b
+comment0.target=RulesSolitare(BoardSolitare)
+comment1.params=pos1\ pos2
+comment1.target=boolean\ isTwoAway(int,\ int)
+comment2.params=
+comment2.target=boolean\ wasMoveTwoAway()
+numComments=3

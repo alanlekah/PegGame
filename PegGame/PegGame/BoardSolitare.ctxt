@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BoardSolitare()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BoardSolitare\r\n
+comment1.params=
+comment1.target=java.lang.String[]\ getArray()
+comment2.params=pos
+comment2.target=void\ removeFromGrid(int)
+comment3.params=pos
+comment3.target=void\ addToGrid(int)
+comment4.params=pos
+comment4.target=java.lang.String\ getValue(int)
+comment5.params=
+comment5.target=int\ getRandomFilledPos()
+comment6.params=
+comment6.target=int\ numFilled()
+comment7.params=pos1\ pos2
+comment7.target=int\ inBetween(int,\ int)
+comment8.params=r
+comment8.target=void\ addRules(RulesSolitare)
+numComments=9

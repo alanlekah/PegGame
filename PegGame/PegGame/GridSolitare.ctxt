@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=board\ player\ computer
+comment0.target=GridSolitare(BoardSolitare,\ Player,\ AISolitare)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GridSolitare\r\n
+comment1.params=
+comment1.target=void\ printBoard()
+numComments=2
